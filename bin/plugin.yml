@@ -1,0 +1,6 @@
+name: road
+main: com.bukkit.jason.road.Road
+version: 0.1
+author: petrifiednightmares
+description: >
+    Walk on roads
